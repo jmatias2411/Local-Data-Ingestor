@@ -91,6 +91,10 @@ Para mantener tu bandeja de entrada limpia, crea una regla en Gmail/Outlook:
   * **Condición:** El asunto contiene "Backup Descargas".
   * **Acción:** Mover a etiqueta/carpeta `Logs Backup`.
 
+## Ejemplo Correo :
+<img width="1207" height="372" alt="image" src="https://github.com/user-attachments/assets/4a4a30e7-2f52-4e10-a0ef-99298e3d0e40" />
+
+
 ## 📄 Licencia
 
 Este proyecto es de uso personal y libre modificación. ¡Úsalo bajo tu propia responsabilidad\!
