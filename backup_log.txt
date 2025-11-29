@@ -1,0 +1,25 @@
+[2025-11-22 22:45:58] --- 🤖 INICIO AUTOMÁTICO ---
+[2025-11-22 22:46:55] ✅ Copia exitosa: D:(17) | A:(17)
+[2025-11-22 22:46:55] 🧹 Iniciando limpieza de Descargas (C:)...
+[2025-11-22 22:46:55] 🗑️ Limpieza completada. Archivos borrados: 17. Espacio liberado: 1842.56 MB
+[2025-11-22 22:46:55] --- FIN AUTO ---
+
+[2025-11-22 22:46:59] 📧 Correo enviado correctamente.
+[2025-11-29 17:50:45] --- 🤖 INICIO AUTOMÁTICO ---
+[2025-11-29 17:50:45] ✅ Copia exitosa: D:(14) | A:(14)
+[2025-11-29 17:50:45] 🧹 Iniciando limpieza de Descargas (C:)...
+[2025-11-29 17:50:45] 🗑️ Limpieza completada. Archivos borrados: 14. Espacio liberado: 7.79 MB
+[2025-11-29 17:50:45] --- FIN AUTO ---
+
+[2025-11-29 17:50:48] 📧 Correo enviado correctamente.
+[2025-11-29 22:19:30] ℹ️ No hay archivos nuevos en Descargas.
+[2025-11-29 22:19:30] ⚠️ No se copiaron archivos (o no había). No se borra nada.
+[2025-11-29 22:19:38] 📧 Correo HTML enviado correctamente.
+[2025-11-29 22:23:30] ✅ Copia exitosa: D:(1) | A:(1)
+[2025-11-29 22:23:30] 🧹 Iniciando limpieza de Descargas (C:)...
+[2025-11-29 22:23:30] 🗑️ Limpieza completada. Archivos borrados: 1. Espacio liberado: 0.0 MB
+[2025-11-29 22:23:36] 📧 Correo HTML enviado correctamente.
+[2025-11-29 22:31:49] ✅ Copia exitosa: D:(1) | A:(1)
+[2025-11-29 22:31:49] 🧹 Iniciando limpieza de Descargas (C:)...
+[2025-11-29 22:31:49] 🗑️ Limpieza completada. Archivos borrados: 1. Espacio liberado: 152.32 MB
+[2025-11-29 22:31:56] 📧 Correo HTML enviado correctamente.
